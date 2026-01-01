@@ -1,4 +1,4 @@
-# 🌦️ RAG Weather & Web Search Assistant
+# 🌦️ Autonomous Weather & Web Search Assistant app
 
 An intelligent assistant powered by LangChain, LangGraph, and Streamlit that performs two key tasks:
 - Provides **real-time weather data** using OpenWeatherMap.
