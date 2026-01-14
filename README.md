@@ -24,7 +24,7 @@ Built with ❤️ using Azure OpenAI, ChromaDB, and a modular multi-tool agent s
 ### 1. Clone the Repository
 
     git clone https://github.com/ShubhamMaurya2001/Autonomous-AI-Weather-app.git
-    cd RAG-Weather-WebSearch
+    cd Autonomous-AI-Weather-app
 
 ### 2. Create and Activate Virtual Environment
 
